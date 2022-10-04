@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3102D29E28EC874E00A290DB /* Simpson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3102D29D28EC874E00A290DB /* Simpson.swift */; };
 		3152B5F528E740B400DB483D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3152B5F428E740B400DB483D /* AppDelegate.swift */; };
 		3152B5F728E740B400DB483D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3152B5F628E740B400DB483D /* SceneDelegate.swift */; };
 		3152B5F928E740B400DB483D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3152B5F828E740B400DB483D /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3102D29D28EC874E00A290DB /* Simpson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Simpson.swift; sourceTree = "<group>"; };
 		3152B5F128E740B400DB483D /* SimpsonBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpsonBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3152B5F428E740B400DB483D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3152B5F628E740B400DB483D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,11 +63,12 @@
 				3152B5F428E740B400DB483D /* AppDelegate.swift */,
 				3152B5F628E740B400DB483D /* SceneDelegate.swift */,
 				3152B5F828E740B400DB483D /* ViewController.swift */,
+				31AAE14928E88BB2003EB35C /* DetailsVC.swift */,
 				3152B5FA28E740B400DB483D /* Main.storyboard */,
 				3152B5FD28E740B700DB483D /* Assets.xcassets */,
 				3152B5FF28E740B700DB483D /* LaunchScreen.storyboard */,
 				3152B60228E740B700DB483D /* Info.plist */,
-				31AAE14928E88BB2003EB35C /* DetailsVC.swift */,
+				3102D29D28EC874E00A290DB /* Simpson.swift */,
 			);
 			path = SimpsonBook;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				31AAE14A28E88BB2003EB35C /* DetailsVC.swift in Sources */,
 				3152B5F528E740B400DB483D /* AppDelegate.swift in Sources */,
 				3152B5F728E740B400DB483D /* SceneDelegate.swift in Sources */,
+				3102D29E28EC874E00A290DB /* Simpson.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
